@@ -1,14 +1,14 @@
 # Java
 Java some problem solution...!
 
-1] 
+1] JDBC
 
-2] 
+2] Method Overriding 
 
-3]
+3] String
 
-4]
+4] Thread in Java
 
-5]
+5] GCD of Two Numbers using Recursion
 
 
