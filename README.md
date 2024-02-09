@@ -11,4 +11,6 @@ Java some problem solution...!
 
 5] GCD of Two Numbers using Recursion
 
+6] Array --sort the elements in descending order
+
 
