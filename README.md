@@ -13,4 +13,4 @@ Java some problem solution...!
 
 6] Array --sort the elements in descending order
 
-
+7] Encapsulation
