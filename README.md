@@ -18,3 +18,5 @@ Java some problem solution...!
 8] 2-D Array
 
 9] merge two array
+
+10] String is a pangram or not.
