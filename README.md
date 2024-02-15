@@ -22,3 +22,5 @@ Java some problem solution...!
 10] String is a pangram or not.
 
 11] Array Rotation
+
+12] Java forEach method
