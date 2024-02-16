@@ -24,3 +24,7 @@ Java some problem solution...!
 11] Array Rotation
 
 12] Java forEach method
+
+13] Spiral Pattern
+
+
