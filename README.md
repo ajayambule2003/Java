@@ -28,3 +28,5 @@ Java some problem solution...!
 13] Spiral Pattern
 
 14] Java compare method
+
+16] Java transpose of a matrix 
