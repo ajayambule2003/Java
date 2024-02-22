@@ -34,3 +34,5 @@ Java some problem solution...!
 17] Find the Sum of Diagonals of a Matrix
 
 18] Java program Compare two strings 
+
+19] Java code to illustrate remove duolicate 
