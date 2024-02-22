@@ -32,3 +32,5 @@ Java some problem solution...!
 16] Java transpose of a matrix 
 
 17] Find the Sum of Diagonals of a Matrix
+
+18] Java program Compare two strings 
