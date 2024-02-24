@@ -36,3 +36,5 @@ Java some problem solution...!
 18] Java program Compare two strings 
 
 19] Java code to illustrate remove duolicate 
+
+20]  Java program to find common elements
