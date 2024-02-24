@@ -38,3 +38,5 @@ Java some problem solution...!
 19] Java code to illustrate remove duolicate 
 
 20]  Java program to find common elements
+
+21] Java program Remove Leading Zeros From String
