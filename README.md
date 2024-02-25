@@ -40,3 +40,6 @@ Java some problem solution...!
 20]  Java program to find common elements
 
 21] Java program Remove Leading Zeros From String
+
+22] Java code to remove a subList 
+
