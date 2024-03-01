@@ -49,4 +49,4 @@ Java some problem solution...!
 
 25] Java Square fill pattern
 
-26] Java Square fill pattern 2
+26] Java Diamond Star Pattern
