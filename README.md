@@ -50,3 +50,5 @@ Java some problem solution...!
 25] Java Square fill pattern
 
 26] Java Diamond Star Pattern
+
+27] Java program for ASCII Value
