@@ -10,7 +10,7 @@ class Test {
       return true;
     }
   }
- 
+
   static String sortString(String str) {
   
     char[] charArray = str.toCharArray();
