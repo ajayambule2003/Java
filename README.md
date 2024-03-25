@@ -54,3 +54,5 @@ Java some problem solution...!
 27] Java program for ASCII Value
 
 28] Java ArrayList program
+
+29] Substring
